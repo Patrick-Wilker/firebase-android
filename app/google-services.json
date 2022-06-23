@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "354022314286",
+    "project_id": "drink-it-e4a89",
+    "storage_bucket": "drink-it-e4a89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354022314286:android:896064e3d426670ebb6abf",
+        "android_client_info": {
+          "package_name": "com.patrickmota.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354022314286-3vtm1u9au3vliukusqm855s43r9f5q5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS-84lmGnAWdwFk-ihjYjOF1abDX5fsa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354022314286-3vtm1u9au3vliukusqm855s43r9f5q5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354022314286:android:edb2dc2a7c1690cebb6abf",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.android.drinkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354022314286-3vtm1u9au3vliukusqm855s43r9f5q5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS-84lmGnAWdwFk-ihjYjOF1abDX5fsa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354022314286-3vtm1u9au3vliukusqm855s43r9f5q5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
